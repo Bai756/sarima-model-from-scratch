@@ -1,4 +1,4 @@
-# sarima-model-from-scratch
+# Overview
  SARIMA model from scratch on monthly precipitation.
  Takes the total monthly precipitation of Brazil for 10 years to make predictions. The RMSE is about 18% which is on the higher side, but for just a SARIMA model only with precipitation amounts withoout any other additional information like humidity, it's fine. 
 
